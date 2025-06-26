@@ -1,21 +1,4 @@
-<!doctype html>
-<html>
-<head>
-<meta charset="utf-8">
 
-<title>Documento sin título</title>
-<link href="estilo.css" rel="stylesheet" type="text/css">
-</head>
-
-<body>
-	
-<header>
-	<h1><mark>Rustica Tacna</mark></h1>
-	<p>El mejor sabor peruano en un ambiente acogedor</p>
-	<a href="#postulaciones" class="BTN">¡Únete a nuestro equipo!</a>
-	</header>
-    <div class="GENERAL">
-      <section class="BENEFICIOS">
         
         <h2>¿Por qué elegir Rustica Tacna?</h2>
         <ul>
